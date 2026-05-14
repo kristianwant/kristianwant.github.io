@@ -123,22 +123,22 @@ author:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-google-scholar"
-      # url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
-      # url: "https://orcid.org/0000-0001-7590-0896"
+      url: "https://orcid.org/0000-0001-7590-0896"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      # url: "https://www.researchgate.net/profile/Kristian-Want"
+      url: "https://www.researchgate.net/profile/Kristian-Want"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-square-linkedin"
-      # url: "https://www.linkedin.com/in/kristianwant/"
+      url: "https://www.linkedin.com/in/kristianwant/"
     - label: "Loop"
       icon: "fab fa-fw fa-user"
-      # url: "https://loop.frontiersin.org/people/1625214/overview"
+      url: "https://loop.frontiersin.org/people/1625214/overview"
     - label: "Springer Research Communities"
       icon: "fab fa-fw fa-book-open"
-      # url: "https://communities.springernature.com/users/kristian-want"
+      url: "https://communities.springernature.com/users/kristian-want"
 
 # Site Footer
 footer:
