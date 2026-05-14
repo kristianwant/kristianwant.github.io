@@ -115,15 +115,12 @@ analytics:
 # Site Author
 author:
   name             : "Kristian Want"
-  avatar           : "/assets/images/bio-photo.png"
+  avatar           : "/assets/images/bio_photo.jpg"
   bio              : "Postdoctoral Researcher, Brandeis University"
   location         : "Boston, MA, USA"
   email            : "want@brandeis.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:want@brandeis.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-google-scholar"
       # url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
