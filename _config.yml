@@ -124,7 +124,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       # url: "mailto:want@brandeis.edu"
-    - label: "GoogleScholar"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-googlescholar"
       # url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
     - label: "ORCiD"
@@ -133,9 +133,6 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       # url: "https://www.researchgate.net/profile/Kristian-Want"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/kristianwant/kristianwant.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       # url: "https://www.linkedin.com/in/kristianwant/"
@@ -149,26 +146,19 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kristianwant/kristianwant.github.io"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-googlescholar"
+      # url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      # url: "https://orcid.org/0000-0001-7590-0896"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      # url: "https://www.researchgate.net/profile/Kristian-Want"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://www.linkedin.com/in/kristianwant/"
+  since: "2026"
 
 
 # Reading Files
