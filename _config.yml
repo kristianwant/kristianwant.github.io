@@ -19,7 +19,7 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Kristian Want, Ph.D."
 title_separator          : "-"
-subtitle                 : "Biochemistry, Genetics"
+subtitle                 : "Biochemistry, Structural Biology, Genetics"
 name                     : "Kristian Want"
 description              : "Personal website for Kristian Want"
 url                      : "https://kristianwant.github.io"
