@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Kristian Want"
+title                    : "Kristian Want, Ph.D."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kristian Want"
@@ -122,7 +122,7 @@ author:
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
@@ -134,17 +134,17 @@ author:
       icon: "fab fa-fw fa-square-linkedin"
       url: "https://www.linkedin.com/in/kristianwant/"
     - label: "Loop"
-      icon: "fab fa-fw fa-user"
+      icon: "fas fa-fw fa-user"
       url: "https://loop.frontiersin.org/people/1625214/overview"
     - label: "Springer Research Communities"
-      icon: "fab fa-fw fa-book-open"
+      icon: "fas fa-fw fa-book"
       url: "https://communities.springernature.com/users/kristian-want"
 
 # Site Footer
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-googlescholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
@@ -153,7 +153,7 @@ footer:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kristian-Want"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-square-linkedin"
       url: "https://www.linkedin.com/in/kristianwant/"
   since: "2026"
 
