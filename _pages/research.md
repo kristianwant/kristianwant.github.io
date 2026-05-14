@@ -17,9 +17,9 @@ My research focuses on characterizing the late-acting pathways that assemble, de
 
 My doctoral research was conducted under the mentorship of [Dr. Benoit D'Autreaux](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/) at the [Institute for Integrative Biology of the Cell (I2BC)](https://www.i2bc.paris-saclay.fr/), with my doctorate in Biochemistry and Structural Biology awarded by the [University Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
-This work focused on characterising the interactions and activity of FXN and FDX2 during the assembly of [2Fe-2S] clusters using a combination of biochemical and biophysical techniques. A key discovery was that FDX2 has an unexpected auto-inhibitory role during [2Fe-2S] synthesis — and that decreasing its concentration significantly extends lifespan in a Friedreich's Ataxia (FRDA) model of *D. melanogaster*, in collaboration with the lab of Véronique Monnier at Université Paris Cité.
+This work focused on characterising the interactions and activity of FXN and FDX2 during the assembly of [2Fe-2S] clusters using a combination of biochemical and biophysical techniques. A key discovery was that FDX2 has an unexpected auto-inhibitory role during [2Fe-2S] synthesis - and that decreasing its concentration significantly extends lifespan in a Friedreich's Ataxia (FRDA) model of *D. melanogaster*, in collaboration with the lab of Veronique Monnier at Universite Paris Cite.
 
-Earlier in the Ph.D., the project was focused on the design of novel therapeutics — including [small molecules](https://www.curefa.org/funded-grants/discovery-of-frataxin-substitute-drug-candidates-for-the-treatment-of-friedreichs-ataxia/) and short peptides — to treat FRDA.
+Earlier in the Ph.D., the project was focused on the design of novel therapeutics - including [small molecules](https://www.curefa.org/funded-grants/discovery-of-frataxin-substitute-drug-candidates-for-the-treatment-of-friedreichs-ataxia/) and short peptides - to treat FRDA.
 
 ---
 
