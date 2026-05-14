@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Kristian Want"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Postdoctoral Researcher, Brandeis University"
   location         : "Boston, MA, USA"
   email            : "want@brandeis.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -139,6 +139,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       # url: "https://www.linkedin.com/in/kristianwant/"
+    - label: "Loop"
+      icon: "fab fa-fw fa-loop"
+      # url: "https://loop.frontiersin.org/people/1625214/overview"
+    - label: "Springer Research Communities"
+      icon: "fab fa-fw fa-springerresearchcommunities"
+      # url: "https://communities.springernature.com/users/kristian-want"
 
 # Site Footer
 footer:
