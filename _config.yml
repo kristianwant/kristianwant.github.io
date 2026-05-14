@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Kristian Want"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Researcher, Brandeis University"
   location         : "Boston, MA, USA"
   email            : "want@brandeis.edu"
@@ -125,7 +125,7 @@ author:
       icon: "fas fa-fw fa-square-envelope"
       # url: "mailto:want@brandeis.edu"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-googlescholar"
+      icon: "fas fa-fw fa-google-scholar"
       # url: "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
@@ -134,10 +134,10 @@ author:
       icon: "fab fa-fw fa-researchgate"
       # url: "https://www.researchgate.net/profile/Kristian-Want"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-square-linkedin"
       # url: "https://www.linkedin.com/in/kristianwant/"
     - label: "Loop"
-      icon: "fab fa-fw fa-loop"
+      icon: "fab fa-fw fa-ring"
       # url: "https://loop.frontiersin.org/people/1625214/overview"
     - label: "Springer Research Communities"
       icon: "fab fa-fw fa-springerresearchcommunities"
