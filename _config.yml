@@ -134,10 +134,10 @@ author:
       icon: "fab fa-fw fa-square-linkedin"
       # url: "https://www.linkedin.com/in/kristianwant/"
     - label: "Loop"
-      icon: "fab fa-fw fa-ring"
+      icon: "fab fa-fw fa-user"
       # url: "https://loop.frontiersin.org/people/1625214/overview"
     - label: "Springer Research Communities"
-      icon: "fab fa-fw fa-springerresearchcommunities"
+      icon: "fab fa-fw fa-book-open"
       # url: "https://communities.springernature.com/users/kristian-want"
 
 # Site Footer
