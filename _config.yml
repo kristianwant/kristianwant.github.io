@@ -130,15 +130,15 @@ author:
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
       # url: "https://orcid.org/0000-0001-7590-0896"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      # url: "https://www.researchgate.net/profile/Kristian-Want"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://github.com/kristianwant/kristianwant.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://www.linkedin.com/in/kristianwant/"
 
 # Site Footer
 footer:
