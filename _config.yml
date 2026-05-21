@@ -135,9 +135,6 @@ author:
     - label: "X"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/Dr_KristianWant"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:want@brandeis.edu"
 
 # Site Footer
 footer:
