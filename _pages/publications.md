@@ -29,19 +29,18 @@ author_profile: true
 .badge-jacs    { background: #fef0d8; color: #633806; }
 .badge-front   { background: #eeeeff; color: #3c3489; }
 .pub-title { font-size: 0.95rem; font-weight: 600; color: #111; margin: 0 0 5px; line-height: 1.4; }
-.pub-authors { font-size: 0.8rem; color: #555; margin: 0 0 10px; line-height: 1.55; }
+.pub-authors { font-size: 0.8rem; color: #555; margin: 0 0 8px; line-height: 1.55; }
 .pub-authors strong { color: #111; }
+.pub-footer { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+.pub-cite { font-size: 0.8rem; color: #555; font-style: italic; }
+.pub-doi { font-size: 0.78rem; color: #c0392b; text-decoration: none; }
+.pub-doi:hover { text-decoration: underline; }
 .pub-thumb-wrap {
   display: block; width: 100%;
   border-radius: 6px; overflow: hidden;
   border: 1px solid #e5e5e5;
-  margin-bottom: 10px;
 }
 .pub-thumb-wrap img { width: 100%; display: block; }
-.pub-footer { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-.pub-cite { font-size: 0.8rem; color: #555; font-style: italic; }
-.pub-doi { font-size: 0.78rem; color: #c0392b; text-decoration: none; }
-.pub-doi:hover { text-decoration: underline; }
 </style>
 
 <div class="pubs-header">
@@ -55,13 +54,13 @@ author_profile: true
   </div>
   <p class="pub-title">Cross-regulation of [2Fe–2S] cluster synthesis by ferredoxin-2 and frataxin</p>
   <p class="pub-authors"><strong>Want K.</strong>, Gorny H., Turki E., Noiray M., Monfort B., Mor-Gautier R., Tubiana T., Jullian E., Monnier V., D'Autreaux B.</p>
-  <a class="pub-thumb-wrap" href="https://doi.org/10.1038/s41586-025-09822-1" target="_blank">
-    <img src="/assets/images/publications/pub5_nature_2026.png" alt="Nature 2026">
-  </a>
   <div class="pub-footer">
     <span class="pub-cite">Nature 649, 721–728 (2026)</span>
     <a class="pub-doi" href="https://doi.org/10.1038/s41586-025-09822-1" target="_blank">↗ doi.org/10.1038/s41586-025-09822-1</a>
   </div>
+  <a class="pub-thumb-wrap" href="https://doi.org/10.1038/s41586-025-09822-1" target="_blank">
+    <img src="/assets/images/publications/pub5_nature_2026.png" alt="Nature 2026">
+  </a>
 </div>
 
 <div class="pub-card">
@@ -71,13 +70,13 @@ author_profile: true
   </div>
   <p class="pub-title">The ISC machinery assembles [2Fe–2S] clusters by formation and fusion of [1Fe–1S] precursors</p>
   <p class="pub-authors">Gervason S., Dutkiewicz R., <strong>Want K.</strong>, Benazza R., Mor-Gautier R., Grabinska-Rogala A., Sizun C., Hernandez-Alba O., Cianferani S., Gugliarrelli B., Burlat B., D'Autreaux B.</p>
-  <a class="pub-thumb-wrap" href="https://doi.org/10.1038/s41589-024-01818-8" target="_blank">
-    <img src="/assets/images/publications/pub4_nat_chem_biol_2025.png" alt="Nature Chemical Biology 2025">
-  </a>
   <div class="pub-footer">
     <span class="pub-cite">Nature Chemical Biology 21, 767–778 (2025)</span>
     <a class="pub-doi" href="https://doi.org/10.1038/s41589-024-01818-8" target="_blank">↗ doi.org/10.1038/s41589-024-01818-8</a>
   </div>
+  <a class="pub-thumb-wrap" href="https://doi.org/10.1038/s41589-024-01818-8" target="_blank">
+    <img src="/assets/images/publications/pub4_nat_chem_biol_2025.png" alt="Nature Chemical Biology 2025">
+  </a>
 </div>
 
 <div class="pub-card">
@@ -87,13 +86,13 @@ author_profile: true
   </div>
   <p class="pub-title">Mechanism of mitochondrial [2Fe-2S] cluster biosynthesis</p>
   <p class="pub-authors"><strong>Want K.</strong>, D'Autreaux B.</p>
-  <a class="pub-thumb-wrap" href="https://doi.org/10.1016/j.bbamcr.2024.119811" target="_blank">
-    <img src="/assets/images/publications/pub3_bba_mcr_2024.png" alt="BBA MCR 2024">
-  </a>
   <div class="pub-footer">
     <span class="pub-cite">Biochim. Biophys. Acta (2024)</span>
     <a class="pub-doi" href="https://doi.org/10.1016/j.bbamcr.2024.119811" target="_blank">↗ doi.org/10.1016/j.bbamcr.2024.119811</a>
   </div>
+  <a class="pub-thumb-wrap" href="https://doi.org/10.1016/j.bbamcr.2024.119811" target="_blank">
+    <img src="/assets/images/publications/pub3_bba_mcr_2024.png" alt="BBA MCR 2024">
+  </a>
 </div>
 
 <div class="pub-card">
@@ -103,13 +102,13 @@ author_profile: true
   </div>
   <p class="pub-title">Iron insertion at the assembly site of the ISCU scaffold protein is a conserved process initiating Fe–S cluster biosynthesis</p>
   <p class="pub-authors">Srour B., Gervason S., Hellen Hoock M., Monfort B., <strong>Want K.</strong>, Larkem D., Trabelsi N., et al.</p>
-  <a class="pub-thumb-wrap" href="https://doi.org/10.1021/jacs.2c06338" target="_blank">
-    <img src="/assets/images/publications/pub2_jacs_2022.png" alt="JACS 2022">
-  </a>
   <div class="pub-footer">
     <span class="pub-cite">J. Am. Chem. Soc. (2022)</span>
     <a class="pub-doi" href="https://doi.org/10.1021/jacs.2c06338" target="_blank">↗ doi.org/10.1021/jacs.2c06338</a>
   </div>
+  <a class="pub-thumb-wrap" href="https://doi.org/10.1021/jacs.2c06338" target="_blank">
+    <img src="/assets/images/publications/pub2_jacs_2022.png" alt="JACS 2022">
+  </a>
 </div>
 
 <div class="pub-card">
@@ -119,11 +118,11 @@ author_profile: true
   </div>
   <p class="pub-title">Recent advances in the elucidation of frataxin biochemical function open novel perspectives for the treatment of Friedreich's ataxia</p>
   <p class="pub-authors">Monfort B., <strong>Want K.</strong>, Gervason S., D'Autreaux B.</p>
-  <a class="pub-thumb-wrap" href="https://doi.org/10.3389/fnins.2022.838335" target="_blank">
-    <img src="/assets/images/publications/pub1_frontiers_neurosci_2022.png" alt="Frontiers in Neuroscience 2022">
-  </a>
   <div class="pub-footer">
     <span class="pub-cite">Front. Neurosci. (2022)</span>
     <a class="pub-doi" href="https://doi.org/10.3389/fnins.2022.838335" target="_blank">↗ doi.org/10.3389/fnins.2022.838335</a>
   </div>
+  <a class="pub-thumb-wrap" href="https://doi.org/10.3389/fnins.2022.838335" target="_blank">
+    <img src="/assets/images/publications/pub1_frontiers_neurosci_2022.png" alt="Frontiers in Neuroscience 2022">
+  </a>
 </div>
