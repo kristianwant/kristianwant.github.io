@@ -225,7 +225,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 timezone: "America/New_York"
 
 
