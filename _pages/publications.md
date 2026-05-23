@@ -44,7 +44,7 @@ author_profile: true
 .pub-thumb-wrap img { width: 100%; display: block; }
 </style>
 
-<div class="pubs-header"><p class="hindex">Current h-index: <strong>4</strong></p></div>
+<div class="pubs-header"><p class="hindex">Current h-index: <strong>5</strong></p></div>
 
 <div class="pub-card"><div class="pub-meta"><span class="pub-num">[5]</span><span class="pub-journal-badge badge-nature">Nature</span></div><p class="pub-title">Cross-regulation of [2Fe–2S] cluster synthesis by ferredoxin-2 and frataxin</p><p class="pub-authors"><strong>Want K.</strong>, Gorny H., Turki E., Noiray M., Monfort B., Mor-Gautier R., Tubiana T., Jullian E., Monnier V., D'Autreaux B.</p><div class="pub-footer"><span class="pub-cite">Nature 649, 721–728 (2026)</span><a class="pub-doi" href="https://doi.org/10.1038/s41586-025-09822-1" target="_blank">↗ doi.org/10.1038/s41586-025-09822-1</a></div><a class="pub-thumb-wrap" href="https://doi.org/10.1038/s41586-025-09822-1" target="_blank"><img src="/assets/images/publications/pub5_nature_2026.png" alt="Nature 2026"></a></div>
 
