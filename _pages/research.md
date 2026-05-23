@@ -28,6 +28,7 @@ Earlier in the Ph.D., the project was focused on the design of novel therapeutic
 - [Meisel Lab](https://www.meisellab.org/), Brandeis University
 - [Pandelia Lab](https://sites.google.com/brandeis.edu/pandelialab/home), Brandeis University
 - [D'Autreaux Lab, I2BC](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/), University Paris-Saclay *(Ph.D.)*
+- [Astbury Centre, University of Leeds](https://astbury.leeds.ac.uk/people/dr-glyn-hemsworth-2/) *(Master's project)*
 
 ---
 
