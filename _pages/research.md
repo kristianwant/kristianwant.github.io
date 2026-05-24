@@ -17,8 +17,8 @@ My research focuses on characterizing the late-acting pathways that assemble, de
 
 - [Meisel Lab](https://www.meisellab.org/), [Brandeis University](https://www.brandeis.edu/) *(Postdoctoral research)*
 - [Pandelia Lab](https://sites.google.com/brandeis.edu/pandelialab/home), [Brandeis University](https://www.brandeis.edu/) *(Postdoctoral research)*
-- [D'Autreaux Lab, I2BC](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/), University Paris-Saclay *(Ph.D. research)*
-- [Astbury Centre, University of Leeds](https://astbury.leeds.ac.uk/people/dr-glyn-hemsworth-2/) *(Master's research)*
+- [D'Autreaux Lab](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/), [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) *(Ph.D. research)*
+- [Hemsworth Lab](https://astbury.leeds.ac.uk/people/dr-glyn-hemsworth-2/), [University of Leeds](https://www.leeds.ac.uk/) *(Master's research)*
 
 ---
 
