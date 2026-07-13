@@ -17,18 +17,17 @@ My research focuses on characterizing the late-acting pathways that assemble, de
 
 - [Meisel Lab](https://www.meisellab.org/), [Brandeis University](https://www.brandeis.edu/) *(Postdoctoral research)*
 - [Pandelia Lab](https://sites.google.com/brandeis.edu/pandelialab/home), [Brandeis University](https://www.brandeis.edu/) *(Postdoctoral research)*
-- [D'Autreaux Lab](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/), [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) *(Ph.D. research)*
+- [D'Autreaux Lab](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) *(Ph.D. research)*
 - [Hemsworth Lab](https://astbury.leeds.ac.uk/people/dr-glyn-hemsworth-2/), [University of Leeds](https://www.leeds.ac.uk/) *(Master's research)*
 
 ---
 
 ## Ph.D. Research
 
-My doctoral research was performed under the mentorship of [Dr. Benoit D'Autreaux](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/) at the [Institute for Integrative Biology of the Cell (I2BC)](https://www.i2bc.paris-saclay.fr/), with my doctorate in Biochemistry and Structural Biology awarded by the [University Paris-Saclay](https://www.universite-paris-saclay.fr/en).
+My doctoral research was performed under the mentorship of [Dr. Benoit D'Autreaux](https://www.i2bc.paris-saclay.fr/biochemistry-of-metalloproteins-and-associated-diseases/) at the [Institute for Integrative Biology of the Cell (I2BC)](https://www.i2bc.paris-saclay.fr/), with my doctorate in Biochemistry and Structural Biology awarded by the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
-This work focused on characterising the interactions and activity of FXN and FDX2 during the assembly of [2Fe-2S] clusters using a combination of biochemical, biophysical, and genetic techniques. This work led to the discovery that ferredoxin-2 (FDX2) and frataxin (FXN) must be intricately balanced for optimal [2Fe-2S] cluster synthesis efficiency, and that FDX2 has an unexpected auto-inhibitory role of slow persulfide transfer during [2Fe-2S] synthesis. Bringing this work together, we showed that decreasing the concentration of FDX2 significantly extends lifespan in a Friedreich's Ataxia (FRDA) model of *D. melanogaster*, thus opening a new therapeutic avenue for treatment of FRDA.
+This work focused on characterizing the interactions and activity of FXN and FDX2 during the assembly of [2Fe-2S] clusters using a combination of biochemical, biophysical, and genetic techniques. This work led to the discovery that ferredoxin-2 (FDX2) and frataxin (FXN) must be intricately balanced for optimal [2Fe-2S] cluster synthesis efficiency, and that FDX2 has an unexpected auto-inhibitory role of slow persulfide transfer during [2Fe-2S] synthesis. Bringing this work together, we showed that decreasing the concentration of FDX2 significantly extends lifespan in a Friedreich's Ataxia (FRDA) model of *D. melanogaster*, thus opening a new therapeutic avenue for treatment of FRDA.
 
 Before this work, the project was focused on the design of novel therapeutics including [small molecules](https://www.curefa.org/funded-grants/discovery-of-frataxin-substitute-drug-candidates-for-the-treatment-of-friedreichs-ataxia/) and short peptides to treat FRDA.
 
 ---
-
