@@ -21,3 +21,24 @@ My previous Ph.D. research was carried out under the mentorship of [Dr. Benoit D
 I was awarded my BSc and MBiol in Biochemistry from the [University of Leeds](https://www.leeds.ac.uk/). My Master's project focused on discerning the mechanism of electron transfer from a redox-active c-type cytochrome to an AA10-type lytic polysaccharide monooxygenase (LPMO), performed under the guidance of [Dr. Glyn Hemsworth](https://astbury.leeds.ac.uk/people/dr-glyn-hemsworth-2/). This was subsequently nominated by the University of Leeds for the Royal Society of Biology Top Master's Project Award.
 
 **Latest publication:** [Nature (2026)](https://doi.org/10.1038/s41586-025-09822-1)
+
+---
+
+## Awards
+
+<style>
+.awards-list { list-style: none; margin: 0; padding: 0; }
+.awards-list li { display: flex; gap: 1rem; margin-bottom: 14px; align-items: baseline; }
+.awards-year { flex: 0 0 84px; font-weight: 600; color: #666; font-size: 0.85rem; }
+.awards-body { font-size: 0.9rem; line-height: 1.6; }
+.awards-body strong { color: #111; }
+</style>
+
+<ul class="awards-list">
+  <li><span class="awards-year">2026</span><span class="awards-body"><strong>Brandeis Sprout Program ($30,000)</strong> - Conceptualized and pitched a novel therapeutic strategy for the treatment of Friedreich's ataxia to a panel of external specialists and was subsequently selected to receive research funding and mentorship for product materialization.</span></li>
+  <li><span class="awards-year">2023</span><span class="awards-body"><strong>Highest Rating FARA Flash Talk ($100)</strong> - Awarded as the highest rated <em>flash talk</em> during a series for the Friedreich's Ataxia Research Alliance (FARA) charity community (<a href="https://www.youtube.com/watch?v=yLaKP34jTzQ" target="_blank">talk available online</a>).</span></li>
+  <li><span class="awards-year">2021</span><span class="awards-body"><strong>Nominated for the Royal Society of Biology Top Master's Project Award</strong> - Awarded by the University of Leeds for "submitting the best final year project in an accredited programme of study in the school of Molecular and Cellular Biology".</span></li>
+  <li><span class="awards-year">2021</span><span class="awards-body"><strong>Molecular and Cellular Biology Master's Project Prize</strong> - Awarded for achieving the highest research project grade among the Master's cohort.</span></li>
+  <li><span class="awards-year">2016-2021</span><span class="awards-body"><strong>Dean's List Prize for Academic Excellence</strong> - Achieved an accumulated 1st Class grade throughout each academic year while studying at the University of Leeds.</span></li>
+  <li><span class="awards-year">2015</span><span class="awards-body"><strong>Top-Student Award for Excellence in Chemistry</strong> - Awarded during A-Levels.</span></li>
+</ul>
