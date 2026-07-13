@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "About"
 author_profile: true
 permalink: /
 canonical_url: "https://www.kristianwant.com/"
