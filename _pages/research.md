@@ -42,6 +42,6 @@ Before this work, the project was focused on the design of novel therapeutics in
 
 ## Master's Research
 
-My Master's research was performed under the mentorship of [Dr. Glyn Hemsworth](https://astbury.leeds.ac.uk/people/dr-glyn-hemsworth-2/) at the [University of Leeds](https://www.leeds.ac.uk/), focused on mapping and characterizing the interaction between an AA9 LPMO with its proposed redox-active heme-containing partner protein. De novo protein-protein docking was performed using HADDOCK, giving models which were experimentally verified within the lab using chemical-crosslinking mass spectrometry. This was ultimately awarded the highest research project grade among the Master's cohort.
+My Master's research was performed under the mentorship of [Dr. Glyn Hemsworth](https://astbury.leeds.ac.uk/people/dr-glyn-hemsworth-2/) at the [University of Leeds](https://www.leeds.ac.uk/), focused on mapping and characterizing the interaction between an AA10 LPMO with its proposed redox-active heme-containing partner protein. De novo protein-protein docking was performed using HADDOCK, giving models which were experimentally verified within the lab using chemical-crosslinking mass spectrometry. This was ultimately awarded the highest research project grade among the Master's cohort.
 
 ---
