@@ -7,3 +7,6 @@ main:
     url: /publications/
   - title: "Presentations"
     url: /presentations/
+  - title: "CV"
+    url: /assets/files/Kristian_Want_CV.pdf
+    target: "_blank"
