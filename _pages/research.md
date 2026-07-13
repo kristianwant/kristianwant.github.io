@@ -31,4 +31,9 @@ This work focused on characterizing the interactions and activity of FXN and FDX
 
 Before this work, the project was focused on the design of novel therapeutics including [small molecules](https://www.curefa.org/funded-grants/discovery-of-frataxin-substitute-drug-candidates-for-the-treatment-of-friedreichs-ataxia/) and short peptides to treat FRDA.
 
+<figure style="margin: 1.5rem 0;">
+  <img src="{{ '/assets/images/research/fxn_fdx2_structure.png' | relative_url }}" alt="Structure render of the FXN-FDX2 complex during [2Fe-2S] cluster assembly" style="width: 100%; border-radius: 6px; border: 1px solid #e5e5e5;">
+  <figcaption style="font-size: 0.8rem; color: #555; margin-top: 0.5rem; text-align: center;">Structure of the FXN–FDX2 complex during [2Fe-2S] cluster assembly.</figcaption>
+</figure>
+
 ---
