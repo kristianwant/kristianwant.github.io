@@ -3,6 +3,7 @@ layout: single
 title: "Presentations"
 permalink: /presentations/
 author_profile: true
+description: "Conference talks and invited webinars by Kristian Want on Fe-S cluster biochemistry and mitochondrial disease research."
 ---
 
 <style>
