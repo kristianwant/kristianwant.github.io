@@ -3,6 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+description: "Research overview: Fe-S cluster assembly, mitochondrial disease biochemistry, and C. elegans genetics in the Meisel and Pandelia labs at Brandeis University."
 ---
 
 ## Current Postdoctoral Research

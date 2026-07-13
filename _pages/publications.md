@@ -3,6 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+description: "Peer-reviewed publications by Kristian Want on Fe-S cluster biochemistry, frataxin, and ferredoxin-2, including first-author work in Nature."
 ---
 
 <style>
