@@ -8,10 +8,9 @@ description: "Kristian Want, PhD — postdoctoral researcher studying Fe-S clust
 
 ## At a Glance
 
-- **Research focus:** Fe-S cluster biochemistry & mitochondrial disease
-- **Methods:** structural and biophysical characterization, *in vitro* reconstitution
-- **Model systems:** *C. elegans* genetics, recombinant systems
-- **Translational angle:** drug discovery for Friedreich's Ataxia
+- **Research focus:** Mitochondrial Fe-S Metabolism and Associated Diseases
+- **Methods:** Structural Biology, Biochemistry, and C. elegans Genetics
+- Therapeutic target identification and drug discovery
 - **Current position:** Postdoctoral researcher, Meisel & Pandelia labs, Brandeis University
 
 I'm a current Postdoctoral researcher based in the [Meisel](https://www.meisellab.org/) and [Pandelia](https://sites.google.com/brandeis.edu/pandelialab/home) labs at [Brandeis University](https://www.brandeis.edu/), studying the biochemistry and underlying genetics of mitochondrial diseases. Particularly, I'm interested in characterizing the late-acting pathways that assemble, deliver, and regulate Fe-S clusters, alongside exploring related clinical diseases in model organisms and recombinant systems. To explore this field, I combine in vitro biochemical reconstitution with in vivo *C. elegans* genetics.
