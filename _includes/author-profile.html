@@ -21,6 +21,26 @@
         {{ author.bio | markdownify }}
       </div>
     {% endif %}
+
+    {% if site.contact.email_user and site.contact.email_domain %}
+      <div class="contact-box" style="margin: 0.9rem 0; padding: 0.7rem 0.9rem; border: 1px solid #e5e5e5; border-radius: 8px; font-size: 0.8rem; line-height: 1.5;">
+        <strong style="display: block; margin-bottom: 3px; font-size: 0.72rem; letter-spacing: 0.03em; text-transform: uppercase; color: #666;">Contact</strong>
+        <a href="#" class="contact-email-link" data-user="{{ site.contact.email_user }}" data-domain="{{ site.contact.email_domain }}" rel="nofollow">
+          <span class="contact-email-placeholder">Enable JavaScript to view email</span>
+        </a>
+      </div>
+      <script>
+        (function () {
+          var links = document.querySelectorAll('.contact-email-link');
+          for (var i = 0; i < links.length; i++) {
+            var el = links[i];
+            var addr = el.getAttribute('data-user') + '@' + el.getAttribute('data-domain');
+            el.setAttribute('href', 'mailto:' + addr);
+            el.textContent = addr;
+          }
+        })();
+      </script>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -44,15 +64,6 @@
         <li>
           <a href="{{ author.uri }}" itemprop="url" rel="me">
             <i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[locale].website_label | default: "Website" }}</span>
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.email %}
-        <li>
-          <a href="mailto:{{ author.email }}" rel="me" class="u-email">
-            <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fas fa-fw fa-square-envelope" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[locale].email_label | default: "Email" }}</span>
           </a>
         </li>
       {% endif %}

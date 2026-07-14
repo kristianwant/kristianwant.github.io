@@ -105,13 +105,19 @@ analytics:
     anonymize_ip         : false
 
 
+# Contact email, split into two parts so it never appears as a plain
+# address anywhere in the built site (feeds, HTML source, etc.) - assembled
+# client-side by _includes/author-profile.html
+contact:
+  email_user       : "kristian.want"
+  email_domain     : "icloud.com"
+
 # Site Author
 author:
   name             : "Kristian Want"
   avatar           : "/assets/images/bio_photo.jpg"
   bio              : "Postdoctoral Researcher, Brandeis University"
   location         : "Boston, MA, USA"
-  email            : "want@brandeis.edu"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
