@@ -33,10 +33,7 @@ This work focused on characterizing the interactions and activity of FXN and FDX
 
 Before this work, the project was focused on the design of novel therapeutics including [small molecules](https://www.curefa.org/funded-grants/discovery-of-frataxin-substitute-drug-candidates-for-the-treatment-of-friedreichs-ataxia/) and short peptides to treat FRDA.
 
-<figure style="margin: 1.5rem 0;">
-  <img src="{{ '/assets/images/research/fxn_fdx2_structure.png' | relative_url }}" alt="Structural interface of FDX2 with the NFS1-ISCU2 complex" style="width: 100%; border-radius: 6px; border: 1px solid #e5e5e5;">
-  <figcaption style="font-size: 0.8rem; color: #555; margin-top: 0.5rem; text-align: center;">Structural interface of FDX2 with the NFS1–ISCU2 [2Fe-2S] cluster assembly complex, highlighting key interacting residues.</figcaption>
-</figure>
+Structural details of the FDX2–NFS1–ISCU2 interface are presented in our [Nature publication](https://doi.org/10.1038/s41586-025-09822-1).
 
 ---
 
