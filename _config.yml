@@ -78,7 +78,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "Dr_KristianWant"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -92,7 +92,6 @@ social:
   type                   : Person
   name                   : "Kristian Want"
   links:
-    - "https://x.com/Dr_KristianWant"
     - "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
     - "https://orcid.org/0000-0001-7590-0896"
     - "https://www.linkedin.com/in/kristianwant/"
@@ -132,9 +131,6 @@ author:
     - label: "Research Communities"
       icon: "fas fa-fw fa-book"
       url: "https://communities.springernature.com/users/kristian-want"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/Dr_KristianWant"
 
 # Site Footer
 footer:
@@ -151,9 +147,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-square-linkedin"
       url: "https://www.linkedin.com/in/kristianwant/"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/Dr_KristianWant"
   since: "2026"
 
 
