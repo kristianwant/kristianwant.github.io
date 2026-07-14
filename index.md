@@ -7,8 +7,6 @@ canonical_url: "https://www.kristianwant.com/"
 description: "Kristian Want, PhD - postdoctoral researcher studying Fe-S cluster biochemistry and mitochondrial disease genetics at Brandeis University."
 ---
 
-## At a Glance
-
 - **Research focus:** Mitochondrial Fe-S Metabolism and Associated Diseases
 - **Methods:** Structural Biology, Biochemistry, and C. elegans Genetics
 - **Research Goal:** Therapeutic target identification and drug discovery
