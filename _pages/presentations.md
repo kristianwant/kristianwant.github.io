@@ -22,57 +22,68 @@ description: "Conference talks and invited webinars by Kristian Want on Fe-S clu
   background: #f2f2f2; border-radius: 6px; padding: 2px 8px;
 }
 .pres-type-badge { font-size: 11px; font-weight: 600; padding: 2px 10px; border-radius: 6px; }
-.badge-webinar  { background: #dceefb; color: #0c447c; }
-.badge-conf     { background: #e0f0d5; color: #27500a; }
-.badge-flash    { background: #fde8df; color: #7a2e0e; }
+.badge-invited  { background: #e0f0d5; color: #27500a; }
+.badge-speaker  { background: #dceefb; color: #0c447c; }
 .pres-title { font-size: 0.95rem; font-weight: 600; color: #111; margin: 0 0 5px; line-height: 1.4; }
 .pres-venue { font-size: 0.8rem; color: #555; margin: 0 0 8px; line-height: 1.55; }
-.pres-abstract { font-size: 0.8rem; color: #555; margin: 0 0 8px; line-height: 1.65; }
 .pres-footer { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .pres-link { font-size: 0.78rem; color: #c0392b; text-decoration: none; }
 .pres-link:hover { text-decoration: underline; }
-.pres-award { font-size: 0.78rem; color: #27500a; font-style: italic; }
 </style>
 
 <div class="pres-card">
   <div class="pres-meta">
     <span class="pres-year">2026</span>
-    <span class="pres-type-badge badge-webinar">Invited Webinar</span>
+    <span class="pres-type-badge badge-invited">Invited Speaker</span>
   </div>
   <p class="pres-title">Cross-regulation of [2Fe-2S] cluster synthesis by ferredoxin-2 and frataxin</p>
-  <p class="pres-venue">FRISBI/ReNaFoBis Biophysics Webinar, Online — May 21, 2026</p>
+  <p class="pres-venue">FRISBI Seminar Series, Online Series</p>
 </div>
 
 <div class="pres-card">
   <div class="pres-meta">
     <span class="pres-year">2025</span>
-    <span class="pres-type-badge badge-conf">Conference Talk</span>
+    <span class="pres-type-badge badge-invited">Invited Speaker</span>
   </div>
   <p class="pres-title">Leveraging FIDA to monitor competitive binding during Fe-S cluster synthesis</p>
-  <p class="pres-venue">FIDA UGM, Paris, France</p>
-  <p class="pres-abstract">Iron-Sulfur (Fe-S) clusters constitute ancient cofactors that accompany a versatile range of fundamental biological reactions across eukaryotes and prokaryotes. Mitochondrial eukaryotic [2Fe-2S] cluster synthesis is coordinated by the Iron-Sulfur Cluster (ISC) machinery which encompasses a core (NIAU2) scaffold that interacts with additional proteins FXN and FDX2 during Fe-S biogenesis. FIDA was used to monitor the binding of FXN and FDX2 to the (NIAU2) complex and was further leveraged to validate and characterize a mutually exclusive mode of binding. Through this, we mapped residues critical for the interaction of FDX2 with the (NIAU2) complex and further discovered that high levels of FDX2 disrupts [2Fe-2S] cluster synthesis through both competition with FXN and an auto-inhibitory mechanism involving its C-terminal tail.</p>
+  <p class="pres-venue">Fida Biosystems UGM, Paris, France</p>
 </div>
 
 <div class="pres-card">
   <div class="pres-meta">
-    <span class="pres-year">2025</span>
-    <span class="pres-type-badge badge-conf">Conference Talk</span>
+    <span class="pres-year">2024</span>
+    <span class="pres-type-badge badge-invited">Invited Speaker</span>
   </div>
-  <p class="pres-title">Efficient [2Fe-2S] synthesis requires a balanced ratio of Ferredoxin-2 and Frataxin</p>
-  <p class="pres-venue">XI International Conference on Fe-S Proteins, Winston-Salem, NC, USA</p>
-  <p class="pres-abstract">Iron-sulfur (FeS) clusters are indispensable molecular entities involved in crucial cellular processes across all domains of life. Using biochemical assays, we demonstrate that modulating FDX2 can mitigate FXN-associated toxicity while also enhancing FeS cluster synthesis efficiency, offering insights for Friedreich's Ataxia therapeutic development.</p>
+  <p class="pres-title">Combining FIDA and ITC to characterize competitive binding</p>
+  <p class="pres-venue">Fida Biosystems UGM, Copenhagen, Denmark</p>
+</div>
+
+<div class="pres-card">
+  <div class="pres-meta">
+    <span class="pres-year">2024</span>
+    <span class="pres-type-badge badge-speaker">Speaker</span>
+  </div>
+  <p class="pres-title">Efficient [2Fe-2S] synthesis requires a balanced ratio of ferredoxin-2 and frataxin</p>
+  <p class="pres-venue">XI International Conference on Fe-S Proteins, North Carolina, USA</p>
 </div>
 
 <div class="pres-card">
   <div class="pres-meta">
     <span class="pres-year">2023</span>
-    <span class="pres-type-badge badge-flash">Flash Talk</span>
+    <span class="pres-type-badge badge-invited">Invited Speaker</span>
   </div>
-  <p class="pres-title">Friedreich's Ataxia Research Alliance (FARA) Flash Talk Series</p>
-  <p class="pres-venue">FARA Flash Talks, Online</p>
-  <p class="pres-abstract">Flash talk for the 2023 FARA Flash Talk Series (begins at 16:37).</p>
+  <p class="pres-title">Searching for FXN-replacing molecules through virtual screening</p>
+  <p class="pres-venue">FARA Flash Talk Series, Online Series</p>
   <div class="pres-footer">
     <a class="pres-link" href="https://www.youtube.com/watch?v=yLaKP34jTzQ" target="_blank">↗ Watch on YouTube</a>
-    <span class="pres-award">🏆 Awarded highest rated talk</span>
   </div>
+</div>
+
+<div class="pres-card">
+  <div class="pres-meta">
+    <span class="pres-year">2023</span>
+    <span class="pres-type-badge badge-speaker">Speaker</span>
+  </div>
+  <p class="pres-title">Mechanisms of frataxin and ferredoxin-2 during Fe-S cluster formation</p>
+  <p class="pres-venue">Institute for Integrative Biology of the Cell Seminar Series, Paris, France</p>
 </div>
