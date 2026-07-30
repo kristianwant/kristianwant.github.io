@@ -32,7 +32,7 @@ description: "Peer-reviewed publications by Kristian Want on Fe-S cluster bioche
 .pub-title { font-size: 0.95rem; font-weight: 600; color: #111; margin: 0 0 5px; line-height: 1.4; }
 .pub-authors { font-size: 0.8rem; color: #555; margin: 0 0 8px; line-height: 1.55; }
 .pub-authors strong { color: #111; }
-.pub-footer { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+.pub-footer { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 10px; }
 .pub-cite { font-size: 0.8rem; color: #555; font-style: italic; }
 .pub-doi { font-size: 0.78rem; color: #c0392b; text-decoration: none; }
 .pub-doi:hover { text-decoration: underline; }
