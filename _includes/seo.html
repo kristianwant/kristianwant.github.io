@@ -127,9 +127,10 @@
   <link rel="next" href="{{ paginator.next_page_path | absolute_url }}">
 {% endif %}
 
-{% if page.url == '/' %}
-  {% include schema.html %}
-{% endif %}
+{% comment %}
+  Theme's schema.html Person block removed: it duplicated the Person
+  JSON-LD in _includes/head/custom.html, which is now the only one.
+{% endcomment %}
 
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />

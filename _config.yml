@@ -10,7 +10,7 @@ title_separator          : "-"
 subtitle                 : "Biochemistry, Structural Biology, Genetics"
 name                     : "Kristian Want"
 description              : "Kristian Want, PhD - postdoctoral researcher in Fe-S cluster biochemistry, mitochondrial disease, and drug discovery at Brandeis University."
-url                      : "https://www.kristianwant.com"
+url                      : "https://kristianwant.com" # must match CNAME; www redirects here
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kristianwant/kristianwant.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -86,16 +86,8 @@ facebook:
 og_image                 : "/assets/images/bio_photo.jpg"
 og_image_alt             : # Alt text for Open Graph/Twitter default site image
 
-# For specifying social profiles (JSON-LD schema)
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : Person
-  name                   : "Kristian Want"
-  links:
-    - "https://scholar.google.com/citations?user=zf1WsVwAAAAJ&hl=en"
-    - "https://orcid.org/0000-0001-7590-0896"
-    - "https://www.linkedin.com/in/kristianwant/"
-    - "https://www.researchgate.net/profile/Kristian-Want"
+# Person JSON-LD schema (incl. sameAs profile links) lives in
+# _includes/head/custom.html - edit it there.
 
 # Analytics
 analytics:
