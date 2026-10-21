@@ -49,4 +49,20 @@
     }
 </script>
 
+{% if page.url == "/" %}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "@id": "https://kristianwant.com/#profilepage",
+      "url": "https://kristianwant.com/",
+      "mainEntity": {
+        "@type": "Person",
+        "@id": "https://kristianwant.com/#person",
+        "name": "Kristian Want"
+      }
+    }
+</script>
+{% endif %}
+
 <!-- end custom head snippets -->
