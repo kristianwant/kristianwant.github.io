@@ -3,6 +3,8 @@ layout: single
 title: "About"
 author_profile: true
 permalink: /
+redirect_from:
+  - /about/
 canonical_url: "https://kristianwant.com/"
 description: "Kristian Want, PhD - postdoctoral researcher studying Fe-S cluster biochemistry and mitochondrial disease genetics at Brandeis University."
 ---

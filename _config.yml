@@ -243,20 +243,22 @@ pagination:
 
 
 # Plugins (previously gems:)
+# jekyll-feed removed: the site has no posts, so it only produced an empty
+# feed.xml that Search Console flagged. Re-add it if a blog is ever added.
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 
 # Archives
